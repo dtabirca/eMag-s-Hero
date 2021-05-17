@@ -1,0 +1,28 @@
+{
+    "name": "dtabirca/emag-s-hero",
+    "description": "coding test",
+    "version": "1.0.0-dev",
+    "type": "project",
+    "homepage": "https://github.com/dtabirca/eMag-s-Hero",
+    "authors": [
+        {
+            "name": "Daniel Tabirca",
+            "email": "dtabirca@gmail.com",
+            "homepage": "https://github.com/dtabirca",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    	"php" : ">=7.4",
+        "phpunit/phpunit": "^9.5",
+        "symfony/yaml": "^5.2",
+        "symfony/console": "^5.2",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "autoload": {
+        "psr-4": { "EmagHero\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "EmagHero\\Tests\\": "test/" }
+    }
+}

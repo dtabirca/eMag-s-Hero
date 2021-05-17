@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getAttributes"
+			],
+			[
+				"defender",
+				"$defenderHealth〔variable〕"
+			],
+			[
+				"atta",
+				"attackerStrength"
+			],
+			[
+				"playe",
+				"$player2Speed〔variable〕"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"attr",
+				"attrName"
+			],
+			[
+				"att",
+				"attrName"
+			],
+			[
+				"One",
+				"OneOnOneBattleFactory〔interface〕"
+			],
+			[
+				"pref",
+				"prefightCheck"
+			],
+			[
+				"setPl",
+				"setPlayerTwo"
+			],
+			[
+				"cha",
+				"characterType"
+			],
+			[
+				"pla",
+				"player_1"
+			],
+			[
+				"array",
+				"array_chunk〔function〕"
+			],
+			[
+				"file_get",
+				"file_get_contents〔function〕"
+			],
+			[
+				"Her",
+				"HeroVsBeast"
+			],
+			[
+				"con",
+				"configure"
+			],
+			[
+				"Ou",
+				"OutputInterface"
+			],
+			[
+				"admin_",
+				"admin_menu_tab3"
+			],
+			[
+				"wp-",
+				"wprace-admin-style"
+			],
+			[
+				"chu",
+				"chunk2"
+			],
+			[
+				"nex",
+				"nextPermutation〔function〕"
+			],
+			[
+				"wo",
+				"$words〔variable〕"
+			],
+			[
+				"divi",
+				"divizor"
+			],
+			[
+				"qu",
+				"$quotient〔variable〕"
+			],
+			[
+				"pa",
+				"parentheses"
+			],
+			[
+				"letter",
+				"letterCombinations〔function〕"
+			],
+			[
+				"Null",
+				"NullObject"
+			],
+			[
+				"owned",
+				"ownedBy"
+			],
+			[
+				"has",
+				"hasRole"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"iterat",
+				"iterator"
+			],
+			[
+				"__c",
+				"__construct〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"Arti",
+				"ArticleTitle"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ser",
+				"service_1"
+			],
+			[
+				"expectO",
+				"expectOutputString〔function〕"
+			],
+			[
+				"expec",
+				"expectOutputString〔function〕"
+			],
+			[
+				"S",
+				"Subsystem1"
+			],
+			[
+				"getP",
+				"getPassword"
+			],
+			[
+				"Pizza",
+				"PizzaFunghi"
+			],
+			[
+				"imple",
+				"implements"
+			],
+			[
+				"Data",
+				"DataMapper"
+			],
+			[
+				"colle",
+				"$collection〔variable〕"
+			],
+			[
+				"set",
+				"setEmail"
+			],
+			[
+				"se",
+				"setUsername〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"bra",
+				"branch1P"
+			],
+			[
+				"C",
+				"Composite"
+			],
+			[
+				"N",
+				"NewPartsShop"
+			],
+			[
+				"I",
+				"InvalidArgumentException"
+			],
+			[
+				"Pa",
+				"ParallelInterface"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"data",
+				"drupal_add_tabledrag\tdrupal_add_tabledrag"
+			],
+			[
+				"ge",
+				"getFirstAvailableScooter〔function〕"
+			],
+			[
+				"getA",
+				"getAllInUse〔function〕"
+			],
+			[
+				"Sc",
+				"ScooterPool"
+			],
+			[
+				"way",
+				"waypoints"
+			],
+			[
+				"R",
+				"RoutePrototype"
+			],
+			[
+				"add",
+				"addGraphicsCard"
+			],
+			[
+				"create",
+				"createComputer"
+			],
+			[
+				"show",
+				"showComponents"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"AMD",
+				"AMDBuilder"
+			],
+			[
+				"Static",
+				"StaticFactory"
+			],
+			[
+				"instr",
+				"$instrumentA〔variable〕"
+			],
+			[
+				"Abstract",
+				"AbstractFactory"
+			],
+			[
+				"X",
+				"XylophoneFactory"
+			],
+			[
+				"tamb",
+				"$tambourine〔variable〕"
+			],
+			[
+				"tambou",
+				"$tambourineFactory〔variable〕"
+			],
+			[
+				"M",
+				"MarchingBand"
+			],
+			[
+				"vi",
+				"vibrate"
+			],
+			[
+				"My",
+				"MySchoolFactory2〔class〕"
+			],
+			[
+				"School",
+				"SchoolFactory〔interface〕"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Date",
+				"DateTime〔class〕"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"local",
+				"localhost"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/game.php",
+			"settings":
+			{
+				"buffer_size": 481,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Battle/Battle.php",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Character/Beast.php",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Battle/HeroVsBeastBattle.php",
+			"settings":
+			{
+				"buffer_size": 6540,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Output/ConsoleDisplay.php",
+			"settings":
+			{
+				"buffer_size": 1553,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Battle/HeroVsBeastFactory.php",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"xde",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"xdebug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"sdebug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"xdebug: stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug: st",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				" packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"import webbrowser; webbrowser.open(\"https://www.google.com\")",
+			"print('\\n'*100)",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/emag",
+		"/D/xampp/htdocs/emag/config",
+		"/D/xampp/htdocs/emag/src",
+		"/D/xampp/htdocs/emag/src/Character",
+		"/D/xampp/htdocs/emag/src/Character/Skill",
+		"/D/xampp/htdocs/emag/src/Configuration",
+		"/D/xampp/htdocs/emag/vendor",
+		"/D/xampp/htdocs/emag/vendor/symfony"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/emag/src/Character/GameCharacter.php",
+		"/D/xampp/htdocs/emag/src/Character/Hero.php",
+		"/D/xampp/htdocs/emag/src/Character/HeroBuilder.php",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOneBattle.php",
+		"/D/xampp/htdocs/emag/src/Output/Output.php",
+		"/D/xampp/htdocs/emag/src/Character/Skill/SkillsManager.php",
+		"/D/xampp/htdocs/emag/src/Output/ConsoleDisplay.php",
+		"/D/xampp/htdocs/emag/src/Output/LoggerTrait.php",
+		"/D/xampp/htdocs/emag/config/Orderus_vs_WildBeast.settings.yml",
+		"/D/xampp/htdocs/emag/src/Character/Skill/UnitSkill.php",
+		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeastBattle.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Dumper.php",
+		"/D/xampp/htdocs/emag/src/Character/Attribute/UnitAttribute.php",
+		"/D/xampp/htdocs/emag/src/Character/CharacterBuilderInterface.php",
+		"/D/xampp/htdocs/emag/src/Character/BeastBuilder.php",
+		"/D/xampp/htdocs/emag/src/Character/AbstractCharacterBuilder.php",
+		"/D/xampp/htdocs/emag/src/Character/AbstractCharacter.php",
+		"/D/xampp/htdocs/emag/src/Character/CharacterBuilder.php",
+		"/D/xampp/htdocs/emag/src/Character/Attribute/AttributesManager.php",
+		"/D/xampp/htdocs/emag/src/Configuration/GameSettings.php",
+		"/D/xampp/htdocs/emag/src/Attribute/UnitAttribute.php",
+		"/D/xampp/htdocs/emag/src/Skill/UnitSkill.php",
+		"/D/xampp/htdocs/emag/src/Character/ArmyOfCharacters.php",
+		"/D/xampp/htdocs/emag/src/Attribute/SkillsManager.php",
+		"/D/xampp/htdocs/emag/src/Attribute/AttributesManager.php",
+		"/D/xampp/htdocs/emag/src/Character/Beast.php",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOneFactory.php",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOneBattleFactory.php",
+		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeast.php",
+		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeastFactory.php",
+		"/D/xampp/htdocs/emag/src/Battle/HeroVsHero.php",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOne.php",
+		"/D/xampp/htdocs/emag/src/Battle/ArmyBattle.php",
+		"/D/xampp/htdocs/emag/src/Battle/ArmyVsArmyBattle.php",
+		"/D/xampp/htdocs/emag/src/Configuration/YamlFileSettings.php",
+		"/D/xampp/htdocs/emag/src/Character/HeroBuilder",
+		"/D/xampp/htdocs/emag/config/battle.settings.yml",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/RuntimeException.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/DumpException.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/ExceptionInterface.php",
+		"/D/xampp/htdocs/emag/src/Output/FileOutput.php",
+		"/D/xampp/htdocs/emag/src/Battle/Battle.php",
+		"/D/xampp/htdocs/emag/src/Battle/UnitAttribute.php",
+		"/D/xampp/htdocs/emag/src/Battle/UnitSkill.php",
+		"/D/xampp/htdocs/emag/src/Battle/UnitSkillManager.php",
+		"/D/xampp/htdocs/emag/src/GameCharacter.php",
+		"/D/xampp/htdocs/emag/src/ArmyOfCharacters.php",
+		"/D/xampp/htdocs/emag/src/YamlFileSettings.php",
+		"/D/xampp/htdocs/emag/src/Game/GameSettings.php",
+		"/D/xampp/htdocs/emag/GameCharacter.php",
+		"/D/xampp/htdocs/emag/composer.json",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ClassHasAttribute.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/TextUI/Command.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Test.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Error/Error.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Error/Warning.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/php-text-template/src/Template.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/polyfill-ctype/bootstrap.php",
+		"/D/xampp/htdocs/emag/composer.lock",
+		"/D/xampp/htdocs/emag/.gitignore",
+		"/D/xampp/htdocs/docker-test/Dockerfile",
+		"/D/xampp/htdocs/docker-test/docker-compose.yml",
+		"/C/Users/Daniel/Desktop/research/jobs.txt",
+		"/C/Users/Daniel/Desktop/research/interviuRO",
+		"/C/Users/Daniel/Desktop/research/q&a",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/.gitignore",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.info.yml",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.links.menu.yml",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.routing.yml",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.links.task.yml",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/src/Controller/RunraceController.php",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/config/install/runrace.settings.yml",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/composer.json",
+		"/C/Users/Daniel/Desktop/research/notes.md",
+		"/C/Users/Daniel/Desktop/research/upwork",
+		"/D/xampp/htdocs/drupal9/composer.json",
+		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/node.type.runrace_competitor.yml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/wprace.php",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/wprace-admin.php",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/js/wprace.js",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/view.php",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/README.md",
+		"/D/xampp/htdocs/laravel/public/phpinfo.php",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/css/wprace.css",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/uninstall.php",
+		"/D/xampp/htdocs/wordpress/composer.json",
+		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/New Text Document.txt",
+		"/D/xampp/htdocs/wordpress/.htaccess",
+		"/D/xampp/htdocs/wordpress/index.php",
+		"/D/xampp/htdocs/wordpress/wp-config.php",
+		"/C/Users/Daniel/Desktop/research/jobs-draft",
+		"/C/Users/Daniel/Desktop/research/about.txt",
+		"/C/Users/Daniel/Desktop/research/jobs",
+		"/C/Users/Daniel/Desktop/research/R15-18 m",
+		"/C/Users/Daniel/Desktop/research/intrebariDrupal",
+		"/C/Users/Daniel/Desktop/research/proiecte",
+		"/D/xampp/htdocs/leetcode/1-100.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/htdocs/tests/redis.test.php",
+		"/C/Users/Daniel/Desktop/research/commands",
+		"/D/backups/xampp/htdocs/tests/pages/database.php",
+		"/D/backups/xampp/htdocs/tests/onepage/README.md",
+		"/D/backups/xampp/htdocs/tabirca/visions.php",
+		"/D/backups/v4/towns_common_IV_server/admin/custom.php",
+		"/D/backups/v4/web/admin/community_events.php",
+		"/D/backups/v4/web/admin/universal.php",
+		"/D/backups/v4/web/admin/tree_menu.php",
+		"/D/backups/v4/web/admin/regular_pages.php",
+		"/D/backups/R66/api/action.php",
+		"/D/backups/R66/api/api.class.php",
+		"/C/Users/Daniel/Desktop/redis/COPYING",
+		"/C/Users/Daniel/Desktop/redis/README.markdown",
+		"/C/Users/Daniel/Desktop/redis/liblzf/README",
+		"/D/xampp/htdocs/DesignPatterns/patterns/structural/Facade.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Phpcs/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/DesignPatterns/README.md",
+		"/C/Program Files/Sublime Text 3/Packages/Xdebug/Xdebug.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Daniel/Desktop/sell/calorifer.txt",
+		"/D/xampp/htdocs/DesignPatterns/patterns/structural/Flyweight.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$this->output->display",
+			"multiplier",
+			"modifier",
+			"multiplier",
+			"roundsLeft",
+			"Attaker",
+			"createHero",
+			"readyPlayerOne",
+			"createHero",
+			"__",
+			"GameCharacter",
+			"yaml",
+			"Config",
+			"init",
+			"OneOnOneBattle",
+			"configure",
+			"get",
+			"expected",
+			"->attributeName",
+			"->method",
+			"->name",
+			"$this->name",
+			"getName",
+			"get",
+			"dtabi",
+			"drush",
+			"wprace_course",
+			"unders",
+			"laravel",
+			"front",
+			"main",
+			"drupal",
+			"every",
+			"eval",
+			"cv",
+			"daca se",
+			"zoom",
+			"reli",
+			"realistic",
+			"extre",
+			"reli",
+			"know",
+			"fast",
+			"special",
+			"sell",
+			"cms",
+			"avoid",
+			"fast",
+			"strstr",
+			"extens",
+			"redis"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->display",
+			"modifier",
+			"Attacker"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/game.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								362
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Battle/Battle.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Character/Beast.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Battle/HeroVsBeastBattle.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1617,
+								1617
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Output/ConsoleDisplay.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/Battle/HeroVsBeastFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								531
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "emagshero.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

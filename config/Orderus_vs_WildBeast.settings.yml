@@ -1,0 +1,38 @@
+battleType: "hero_vs_beast"
+realm: "Emagia"
+rounds: 20
+player_1:
+    characterType: "hero"
+    characterName: "Orderus"
+    attributes:
+        health: [70, 100]
+        strength: [70, 80]
+        defence: [45, 55]
+        speed: [40, 50]
+        luck: [10, 30]
+    skills:
+        skill_1:
+            label: "Rapid strike"
+            use: "attack"
+            modifier: 2
+            chance: 10
+        skill_2:
+            label: "Magic shield"
+            use: "defence"
+            modifier: 0.5
+            chance: 20
+        skill_3:
+            label: "JellyBean Blaster"
+            use: "attack"
+            modifier: 3
+            chance: 15           
+player_2:
+    characterType: "beast"
+    characterName: "Wild Beast"
+    attributes:
+        health: [60, 90]
+        strength: [60, 90]
+        defence: [40, 60]
+        speed: [40, 60]
+        luck: [25, 40]
+        ugliness: [90, 100]
