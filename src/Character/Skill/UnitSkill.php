@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace EmagHero\Character\Skill;
 
 /**
- * creates a skill object 
+ * creates a skill object
  */
 class UnitSkill
 {

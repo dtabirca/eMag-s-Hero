@@ -1,11 +1,11 @@
-# eMag-s-Hero
-coding test
+## eMag-s-Hero
+Coding challenge.
 
-# Install
-composer install
+## Install
+`composer install`
 
-# Run
-php game.php
+## Run
+`php game.php`
 
-# Test
-vendor/bin/phpunit tests
+## Test
+`vendor/bin/phpunit tests`

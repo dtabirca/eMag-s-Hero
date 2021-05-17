@@ -13,8 +13,8 @@ abstract class CharacterBuilderAbstract
 {
     protected $character;
 
-    public function createCharacter(): void{
-        
+    public function createCharacter(): void
+    {
     }
 
     public function addName(string $name): void
