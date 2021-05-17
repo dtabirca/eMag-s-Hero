@@ -1,11 +1,21 @@
-## eMag-s-Hero
+## The Hero Game
+
 Coding challenge.
 
-## Install
-`composer install`
+### Install
 
-## Run
-`php game.php`
+```bash
+composer install
+```
 
-## Test
-`vendor/bin/phpunit tests`
+### Run
+
+```bash
+php game.php
+```
+
+### Test
+
+```bash
+vendor/bin/phpunit tests
+```
