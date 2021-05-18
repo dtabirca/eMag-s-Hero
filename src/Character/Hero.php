@@ -9,8 +9,8 @@ use EmagHero\Character\Skill\UnitSkill;
 class Hero extends GameCharacterAbstract
 {
     public string $characterType = 'hero';
-    public array $attackSkills;
-    public array $defenceSkills;
+    public array $attackSkills = [];
+    public array $defenceSkills = [];
 
     public function getAttackSkills(): array
     {

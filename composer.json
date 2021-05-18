@@ -23,6 +23,6 @@
         "psr-4": { "EmagHero\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "EmagHero\\Tests\\": "test/" }
+        "psr-4": { "EmagHero\\Tests\\": "tests/" }
     }
 }

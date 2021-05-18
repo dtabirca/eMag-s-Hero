@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
+				"attribu",
+				"$attribute〔variable〕"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"defe",
+				"defenceSkills"
+			],
+			[
+				"atta",
+				"$attackSkills〔variable〕"
+			],
+			[
+				"Emag",
+				"EmagHero\\Character\\GameCharacterAbstract〔class〕"
+			],
+			[
+				"Game",
+				"GameCharacterAbstract〔namespace〕"
+			],
+			[
 				"get",
 				"getAttributes"
 			],
 			[
 				"defender",
 				"$defenderHealth〔variable〕"
-			],
-			[
-				"atta",
-				"attackerStrength"
 			],
 			[
 				"playe",
@@ -328,54 +348,28 @@
 	"buffers":
 	[
 		{
-			"file": "src/game.php",
+			"file": "tests/Battle/BattleTest.php",
 			"settings":
 			{
-				"buffer_size": 481,
+				"buffer_size": 3460,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/Battle/Battle.php",
+			"file": "src/Character/HeroBuilder.php",
 			"settings":
 			{
-				"buffer_size": 318,
+				"buffer_size": 1641,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/Character/Beast.php",
+			"file": "config/Orderus_vs_WildBeast.settings.yml",
 			"settings":
 			{
-				"buffer_size": 177,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Battle/HeroVsBeastBattle.php",
-			"settings":
-			{
-				"buffer_size": 6540,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Output/ConsoleDisplay.php",
-			"settings":
-			{
-				"buffer_size": 1553,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Battle/HeroVsBeastFactory.php",
-			"settings":
-			{
-				"buffer_size": 564,
+				"buffer_size": 980,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -475,56 +469,131 @@
 		"/D/xampp/htdocs/emag",
 		"/D/xampp/htdocs/emag/config",
 		"/D/xampp/htdocs/emag/src",
+		"/D/xampp/htdocs/emag/src/Battle",
 		"/D/xampp/htdocs/emag/src/Character",
+		"/D/xampp/htdocs/emag/src/Character/Attribute",
 		"/D/xampp/htdocs/emag/src/Character/Skill",
+		"/D/xampp/htdocs/emag/src/Character/Weakness",
 		"/D/xampp/htdocs/emag/src/Configuration",
-		"/D/xampp/htdocs/emag/vendor",
-		"/D/xampp/htdocs/emag/vendor/symfony"
+		"/D/xampp/htdocs/emag/tests",
+		"/D/xampp/htdocs/emag/tests/Battle",
+		"/D/xampp/htdocs/emag/tests/Configuration",
+		"/D/xampp/htdocs/emag/tests/Output"
 	],
 	"file_history":
 	[
-		"/D/xampp/htdocs/emag/src/Character/GameCharacter.php",
-		"/D/xampp/htdocs/emag/src/Character/Hero.php",
-		"/D/xampp/htdocs/emag/src/Character/HeroBuilder.php",
-		"/D/xampp/htdocs/emag/src/Battle/OneOnOneBattle.php",
-		"/D/xampp/htdocs/emag/src/Output/Output.php",
-		"/D/xampp/htdocs/emag/src/Character/Skill/SkillsManager.php",
-		"/D/xampp/htdocs/emag/src/Output/ConsoleDisplay.php",
-		"/D/xampp/htdocs/emag/src/Output/LoggerTrait.php",
+		"/D/xampp/htdocs/emag/config/more_skills.test.settings.yml",
+		"/D/xampp/htdocs/emag/src/Character/CharacterBuilderAbstract.php",
+		"/D/xampp/htdocs/emag/tests/Character/CharacterTest.php",
+		"/D/xampp/htdocs/emag/game.php",
 		"/D/xampp/htdocs/emag/config/Orderus_vs_WildBeast.settings.yml",
+		"/D/xampp/htdocs/emag/config/skills_on.test.settings.yml",
+		"/D/xampp/htdocs/emag/tests/Output/ConsoleTest.php",
+		"/D/xampp/htdocs/emag/config/always_lucky.test.settings.yml",
+		"/D/xampp/htdocs/emag/src/Character/GameCharacterAbstract.php",
+		"/D/xampp/htdocs/emag/tests/Character/Skill/SkillTest.php",
+		"/D/xampp/htdocs/emag/tests/Battle/BattleTest.php",
+		"/D/xampp/htdocs/emag/tests/Character/Attribute/AttributeTest.php",
+		"/D/xampp/htdocs/drupal9/web/core/tests/Drupal/BuildTests/Framework/BuildTestBase.php",
 		"/D/xampp/htdocs/emag/src/Character/Skill/UnitSkill.php",
+		"/D/xampp/htdocs/emag/config/No_Randoms_Hero_vs_Beast.test.settings.yml",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOneBattle.php",
 		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeastBattle.php",
-		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Dumper.php",
-		"/D/xampp/htdocs/emag/src/Character/Attribute/UnitAttribute.php",
+		"/D/xampp/htdocs/emag/tests/BattleTest.php",
+		"/D/xampp/htdocs/drupal9/web/core/tests/Drupal/BuildTests/Composer/ComposerValidateTest.php",
+		"/D/xampp/htdocs/emag/src/Character/Hero.php",
+		"/D/xampp/htdocs/emag/src/Output/NoOutput.php",
+		"/D/xampp/htdocs/emag/src/Configuration/YamlFileSettings.php",
+		"/D/xampp/htdocs/emag/composer.json",
+		"/D/xampp/htdocs/emag/src/Output/BrowserOutput.php",
+		"/D/xampp/htdocs/laravel/vendor/symfony/http-kernel/Kernel.php",
+		"/D/xampp/htdocs/laravel/vendor/psy/psysh/src/Shell.php",
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Runner/PhptTestCase.php",
+		"/D/xampp/htdocs/drupal9/vendor/symfony/debug/Debug.php",
+		"/D/xampp/htdocs/emag/README.md",
+		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeastFactory.php",
 		"/D/xampp/htdocs/emag/src/Character/CharacterBuilderInterface.php",
+		"/D/xampp/htdocs/emag/test/BattleTest.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/htdocs/emag/src/Output/LoggerTrait.php",
+		"/D/xampp/htdocs/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadEnvironmentVariables.php",
+		"/D/xampp/htdocs/laravel/config/app.php",
+		"/D/xampp/htdocs/emag/index.php",
+		"/D/xampp/htdocs/laravel/vendor/laravel/framework/src/Illuminate/Support/Env.php",
+		"/D/xampp/htdocs/laravel/phpunit.xml",
+		"/D/xampp/htdocs/laravel/.env.example",
+		"/D/xampp/htdocs/emag/src/game.php",
+		"/D/xampp/htdocs/emag/src/Output/Output.php",
+		"/D/xampp/htdocs/emag/src/Output/ConsoleOutput.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/emag/src/Configuration/GameSettings.php",
+		"/D/xampp/htdocs/emag/src/Character/HeroBuilder.php",
 		"/D/xampp/htdocs/emag/src/Character/BeastBuilder.php",
+		"/D/xampp/htdocs/emag/src/Character/Attribute/AttributesCollection.php",
+		"/D/xampp/htdocs/emag/src/Battle/OneOnOneFactory.php",
+		"/D/xampp/htdocs/emag/src/Character/Beast.php",
+		"/D/xampp/htdocs/emag/src/Character/Attribute/UnitAttribute.php",
+		"/D/xampp/htdocs/emag/src/Character/Skill/SkillsManager.php",
+		"/D/xampp/htdocs/emag/src/Battle/Battle.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Escaper.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/DumpException.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/deprecation-contracts/function.php",
+		"/D/xampp/htdocs/emag/vendor/vlucas/phpdotenv/src/Store/FileStore.php",
+		"/D/xampp/htdocs/laravel/tests/Unit/ExampleTest.php",
+		"/D/xampp/htdocs/laravel/database/factories/CommentFactory.php",
+		"/D/xampp/htdocs/laravel/routes/web.php",
+		"/D/xampp/htdocs/laravel/routes/api.php",
+		"/D/xampp/htdocs/laravel/app/Mail/BlogPostAdded.php",
+		"/D/xampp/htdocs/laravel/app/Http/Controllers/Controller.php",
+		"/D/xampp/htdocs/laravel/app/Http/Controllers/HomeController.php",
+		"/D/xampp/htdocs/laravel/app/Http/Controllers/Api/V1/PostCommentController.php",
+		"/D/xampp/htdocs/laravel/app/Http/Kernel.php",
+		"/D/xampp/htdocs/laravel/app/Http/Resources/Comment.php",
+		"/D/xampp/htdocs/laravel/app/Http/Requests/UpdateUser.php",
+		"/D/xampp/htdocs/laravel/app/Services/Counter.php",
+		"/D/xampp/htdocs/laravel/app/Providers/AuthServiceProvider.php",
+		"/D/xampp/htdocs/laravel/app/Models/Comment.php",
+		"/D/xampp/htdocs/laravel/app/Events/CommentPosted.php",
+		"/D/xampp/htdocs/laravel/app/Listeners/NotifyUsersAboutComment.php",
+		"/D/xampp/htdocs/laravel/app/Listeners/CacheSubscriber.php",
+		"/D/xampp/htdocs/laravel/app/Facades/CounterFacade.php",
+		"/D/xampp/htdocs/drupal9/web/core/modules/views/src/EntityViewsData.php",
+		"/D/xampp/htdocs/drupal9/web/core/modules/views/views.post_update.php",
+		"/D/xampp/htdocs/drupal9/web/core/modules/field/src/Entity/FieldConfig.php",
+		"/D/xampp/htdocs/drupal9/web/core/modules/field/field.post_update.php",
+		"/D/xampp/htdocs/drupal9/vendor/drupal/core-composer-scaffold/Operations/AbstractOperation.php",
+		"/D/xampp/htdocs/drupal9/web/modules/contrib/admin_toolbar/admin_toolbar_tools/src/Controller/ToolbarController.php",
+		"/D/xampp/htdocs/drupal9/web/modules/contrib/admin_toolbar/admin_toolbar.module",
+		"/D/xampp/htdocs/drupal9/web/modules/contrib/admin_toolbar/admin_toolbar_tools/src/AdminToolbarToolsHelper.php",
+		"/D/xampp/htdocs/drupal9/web/modules/contrib/admin_toolbar/src/Render/Element/AdminToolbar.php",
+		"/D/xampp/htdocs/laravel/.env",
+		"/D/xampp/htdocs/laravel/server.php",
+		"/D/xampp/htdocs/laravel/public/index.php",
+		"/D/xampp/htdocs/laravel/bootstrap/app.php",
+		"/D/xampp/htdocs/emag/.env",
+		"/D/xampp/htdocs/emag/src/Character/Attribute/AttributesManager.php",
+		"/D/xampp/htdocs/emag/src/Character/GameCharacter.php",
 		"/D/xampp/htdocs/emag/src/Character/AbstractCharacterBuilder.php",
+		"/D/xampp/htdocs/emag/src/Output/FileOutput.php",
+		"/D/xampp/htdocs/emag/src/Output/ConsoleDisplay.php",
+		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Dumper.php",
 		"/D/xampp/htdocs/emag/src/Character/AbstractCharacter.php",
 		"/D/xampp/htdocs/emag/src/Character/CharacterBuilder.php",
-		"/D/xampp/htdocs/emag/src/Character/Attribute/AttributesManager.php",
-		"/D/xampp/htdocs/emag/src/Configuration/GameSettings.php",
 		"/D/xampp/htdocs/emag/src/Attribute/UnitAttribute.php",
 		"/D/xampp/htdocs/emag/src/Skill/UnitSkill.php",
 		"/D/xampp/htdocs/emag/src/Character/ArmyOfCharacters.php",
 		"/D/xampp/htdocs/emag/src/Attribute/SkillsManager.php",
 		"/D/xampp/htdocs/emag/src/Attribute/AttributesManager.php",
-		"/D/xampp/htdocs/emag/src/Character/Beast.php",
-		"/D/xampp/htdocs/emag/src/Battle/OneOnOneFactory.php",
 		"/D/xampp/htdocs/emag/src/Battle/OneOnOneBattleFactory.php",
 		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeast.php",
-		"/D/xampp/htdocs/emag/src/Battle/HeroVsBeastFactory.php",
 		"/D/xampp/htdocs/emag/src/Battle/HeroVsHero.php",
 		"/D/xampp/htdocs/emag/src/Battle/OneOnOne.php",
 		"/D/xampp/htdocs/emag/src/Battle/ArmyBattle.php",
 		"/D/xampp/htdocs/emag/src/Battle/ArmyVsArmyBattle.php",
-		"/D/xampp/htdocs/emag/src/Configuration/YamlFileSettings.php",
 		"/D/xampp/htdocs/emag/src/Character/HeroBuilder",
 		"/D/xampp/htdocs/emag/config/battle.settings.yml",
 		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/RuntimeException.php",
-		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/DumpException.php",
 		"/D/xampp/htdocs/emag/vendor/symfony/yaml/Exception/ExceptionInterface.php",
-		"/D/xampp/htdocs/emag/src/Output/FileOutput.php",
-		"/D/xampp/htdocs/emag/src/Battle/Battle.php",
 		"/D/xampp/htdocs/emag/src/Battle/UnitAttribute.php",
 		"/D/xampp/htdocs/emag/src/Battle/UnitSkill.php",
 		"/D/xampp/htdocs/emag/src/Battle/UnitSkillManager.php",
@@ -533,7 +602,6 @@
 		"/D/xampp/htdocs/emag/src/YamlFileSettings.php",
 		"/D/xampp/htdocs/emag/src/Game/GameSettings.php",
 		"/D/xampp/htdocs/emag/GameCharacter.php",
-		"/D/xampp/htdocs/emag/composer.json",
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php",
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ClassHasAttribute.php",
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Constraint/Object/ObjectEquals.php",
@@ -541,80 +609,11 @@
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php",
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/TestCase.php",
 		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Test.php",
-		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Error/Error.php",
-		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Error/Warning.php",
-		"/D/xampp/htdocs/emag/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php",
-		"/D/xampp/htdocs/emag/vendor/phpunit/php-text-template/src/Template.php",
-		"/D/xampp/htdocs/emag/vendor/symfony/polyfill-ctype/bootstrap.php",
-		"/D/xampp/htdocs/emag/composer.lock",
-		"/D/xampp/htdocs/emag/.gitignore",
-		"/D/xampp/htdocs/docker-test/Dockerfile",
-		"/D/xampp/htdocs/docker-test/docker-compose.yml",
-		"/C/Users/Daniel/Desktop/research/jobs.txt",
-		"/C/Users/Daniel/Desktop/research/interviuRO",
-		"/C/Users/Daniel/Desktop/research/q&a",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/.gitignore",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.info.yml",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.links.menu.yml",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.routing.yml",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/runrace.links.task.yml",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/src/Controller/RunraceController.php",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/config/install/runrace.settings.yml",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/composer.json",
-		"/C/Users/Daniel/Desktop/research/notes.md",
-		"/C/Users/Daniel/Desktop/research/upwork",
-		"/D/xampp/htdocs/drupal9/composer.json",
-		"/D/xampp/htdocs/drupal9/web/modules/custom/runrace/node.type.runrace_competitor.yml",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/wprace.php",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/wprace-admin.php",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/js/wprace.js",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/view.php",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/README.md",
-		"/D/xampp/htdocs/laravel/public/phpinfo.php",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/admin/css/wprace.css",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/uninstall.php",
-		"/D/xampp/htdocs/wordpress/composer.json",
-		"/D/xampp/htdocs/wordpress/wordpress/wp-content/plugins/wprace/New Text Document.txt",
-		"/D/xampp/htdocs/wordpress/.htaccess",
-		"/D/xampp/htdocs/wordpress/index.php",
-		"/D/xampp/htdocs/wordpress/wp-config.php",
-		"/C/Users/Daniel/Desktop/research/jobs-draft",
-		"/C/Users/Daniel/Desktop/research/about.txt",
-		"/C/Users/Daniel/Desktop/research/jobs",
-		"/C/Users/Daniel/Desktop/research/R15-18 m",
-		"/C/Users/Daniel/Desktop/research/intrebariDrupal",
-		"/C/Users/Daniel/Desktop/research/proiecte",
-		"/D/xampp/htdocs/leetcode/1-100.php",
-		"/D/xampp/php/php.ini",
-		"/D/xampp/htdocs/tests/redis.test.php",
-		"/C/Users/Daniel/Desktop/research/commands",
-		"/D/backups/xampp/htdocs/tests/pages/database.php",
-		"/D/backups/xampp/htdocs/tests/onepage/README.md",
-		"/D/backups/xampp/htdocs/tabirca/visions.php",
-		"/D/backups/v4/towns_common_IV_server/admin/custom.php",
-		"/D/backups/v4/web/admin/community_events.php",
-		"/D/backups/v4/web/admin/universal.php",
-		"/D/backups/v4/web/admin/tree_menu.php",
-		"/D/backups/v4/web/admin/regular_pages.php",
-		"/D/backups/R66/api/action.php",
-		"/D/backups/R66/api/api.class.php",
-		"/C/Users/Daniel/Desktop/redis/COPYING",
-		"/C/Users/Daniel/Desktop/redis/README.markdown",
-		"/C/Users/Daniel/Desktop/redis/liblzf/README",
-		"/D/xampp/htdocs/DesignPatterns/patterns/structural/Facade.php",
-		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
-		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Phpcs/Default (Windows).sublime-keymap",
-		"/D/xampp/htdocs/DesignPatterns/README.md",
-		"/C/Program Files/Sublime Text 3/Packages/Xdebug/Xdebug.sublime-settings",
-		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
-		"/C/Users/Daniel/Desktop/sell/calorifer.txt",
-		"/D/xampp/htdocs/DesignPatterns/patterns/structural/Flyweight.php"
+		"/D/xampp/htdocs/emag/vendor/phpunit/phpunit/src/Framework/Error/Error.php"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -628,6 +627,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"HeroBuilder",
+			"SymfonyFilesystem",
+			": ",
+			"HeroBuilder",
+			"createHero",
+			"readyPlayerOne",
+			"error_",
+			"\\t",
+			"app_env",
+			"app_en",
+			"\\t",
+			"\\n",
+			"was",
+			"\\t",
+			"error",
+			"display",
+			"gamecha",
+			"\\t",
+			"GameCharacter",
+			"\\t",
+			"display",
 			"$this->output->display",
 			"multiplier",
 			"modifier",
@@ -683,9 +703,11 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			" => ",
+			"    ",
 			"$this->display",
 			"modifier",
 			"Attacker"
@@ -699,186 +721,99 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/game.php",
+					"file": "tests/Battle/BattleTest.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 481,
+						"buffer_size": 3460,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								337,
-								362
+								3440,
+								3440
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/Battle/Battle.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								317,
-								317
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1920.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/Character/Beast.php",
+					"buffer": 1,
+					"file": "src/Character/HeroBuilder.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 177,
+						"buffer_size": 1641,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175,
-								175
+								917,
+								929
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/Battle/HeroVsBeastBattle.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6540,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1617,
-								1617
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"rulers":
-							[
-								80
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2145.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "src/Output/ConsoleDisplay.php",
+					"buffer": 2,
+					"file": "config/Orderus_vs_WildBeast.settings.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1553,
+						"buffer_size": 980,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								843,
-								843
+								733,
+								733
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 295.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/Battle/HeroVsBeastFactory.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 564,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								531
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -886,11 +821,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 50.0
 	},
 	"layout":
 	{
@@ -931,7 +866,7 @@
 	"project": "emagshero.sublime-project",
 	"replace":
 	{
-		"height": 73.0
+		"height": 75.0
 	},
 	"save_all_on_build": true,
 	"select_file":

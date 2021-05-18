@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace EmagHero\Output;
 
 /**
- * barely a rough example of how it outputs in the browser
+ * barely a rough example showing it outputs in the browser
  */
 class BrowserOutput implements Output
 {

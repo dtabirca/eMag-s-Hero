@@ -26,18 +26,35 @@ abstract class CharacterBuilderAbstract
     {
         $this->character->attributes = [];
         foreach ($attributes as $attrName => $values) {
-            $this->character->attributes[$attrName] = (
-                new UnitAttribute([
-                    'attrName' => $attrName,
-                    'minValue' => $values[0],
-                    'maxValue' => $values[1]
-                ])
-            )->getRandomValue();
+            if ($this->isValidAttribute($values)) {
+                $this->character->attributes[$attrName] = (
+                    new UnitAttribute([
+                        'attrName' => $attrName,
+                        'minValue' => $values[0],
+                        'maxValue' => $values[1]
+                    ])
+                )->getRandomValue();
+            }
         }
     }
 
     public function getCharacter(): GameCharacterAbstract
     {
         return $this->character;
+    }
+
+    /**
+     * checks attribute values
+     */
+    private function isValidAttribute(array $values): bool
+    {
+        if (
+            is_int($values[0]) &&
+            is_int($values[1]) &&
+            $values[1] >= $values[0]
+        ) {
+            return true;
+        }
+        return false;
     }
 }

@@ -1,6 +1,6 @@
 ## The Hero Game
 
-Coding challenge.
+Coding test.
 
 ### Install
 

@@ -1,7 +1,8 @@
-battleType: "hero_vs_beast"
+battleType: "hero_vs_beast" # not used yet 
 realm: "Emagia"
 rounds: 20
 player_1:
+    # assuming player_1 is always the hero for the time being
     characterType: "hero"
     characterName: "Orderus"
     attributes:
@@ -24,8 +25,8 @@ player_1:
         skill_3:
             label: "JellyBean Blaster"
             use: "attack"
-            modifier: 3
-            chance: 15           
+            modifier: 3.3
+            chance: 25         
 player_2:
     characterType: "beast"
     characterName: "Wild Beast"

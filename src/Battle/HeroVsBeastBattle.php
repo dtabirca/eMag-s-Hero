@@ -235,24 +235,44 @@ class HeroVsBeastBattle implements OneOnOneBattle
     /**
      * create hero from configuration
      */
-    public function createHero(HeroBuilder $builder): GameCharacterAbstract
+    private function createHero(HeroBuilder $builder): GameCharacterAbstract
     {
+        // assuming player_1 is always the Hero
+        // TODO: use the characterType value in settings to identify characters
         $builder->createCharacter();
         $builder->addName($this->battleSettings['player_1']['characterName']);
         $builder->addAttributes($this->battleSettings['player_1']['attributes']);
-        $builder->addSkills($this->battleSettings['player_1']['skills']);
+        if (isset($this->battleSettings['player_1']['skills'])) {
+            $builder->addSkills($this->battleSettings['player_1']['skills']);
+        }
         return $builder->getCharacter();
     }
 
     /**
      * create beast from configuration
      */
-    public function createBeast(BeastBuilder $builder): GameCharacterAbstract
+    private function createBeast(BeastBuilder $builder): GameCharacterAbstract
     {
         $builder->createCharacter();
         $builder->addName($this->battleSettings['player_2']['characterName']);
         $builder->addAttributes($this->battleSettings['player_2']['attributes']);
         return $builder->getCharacter();
+    }
+
+    /**
+     * access players from tests
+     */
+    public function getPlayerOne(): GameCharacterAbstract
+    {
+        return $this->player_1;
+    }
+
+    /**
+     * access players from tests
+     */
+    public function getPlayerTwo(): GameCharacterAbstract
+    {
+        return $this->player_2;
     }
 
     /**

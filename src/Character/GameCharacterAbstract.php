@@ -47,6 +47,9 @@ abstract class GameCharacterAbstract
         $this->attributes[$attrName] = $value;
     }
 
+    /**
+     * exports in a friendlier format for output
+     */
     public function exportAttributes(): array
     {
         $attributes = $this->attributes;
@@ -56,6 +59,9 @@ abstract class GameCharacterAbstract
         return $attributes;
     }
 
+    /**
+     * exports in a friendlier format for output
+     */
     public function export(): array
     {
         return ['ATTRIBUTES:'] + $this->exportAttributes();

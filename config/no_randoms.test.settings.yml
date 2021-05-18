@@ -1,0 +1,19 @@
+rounds: 20
+player_1:
+    characterType: "hero"
+    characterName: "Test Player 1"
+    attributes:
+        health: [100, 100]
+        strength: [80, 80]
+        defence: [55, 55]
+        speed: [50, 50]
+        luck: [0, 0]
+player_2:
+    characterType: "beast"
+    characterName: "Test Player 2"
+    attributes:
+        health: [90, 90]
+        strength: [90, 90]
+        defence: [60, 60]
+        speed: [60, 60]
+        luck: [0, 0]
