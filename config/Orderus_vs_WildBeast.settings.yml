@@ -1,4 +1,3 @@
-battleType: "hero_vs_beast" # not used yet 
 realm: "Emagia"
 rounds: 20
 player_1:
@@ -22,11 +21,6 @@ player_1:
             use: "defence"
             modifier: 0.5
             chance: 20
-        skill_3:
-            label: "JellyBean Blaster"
-            use: "attack"
-            modifier: 3.3
-            chance: 25         
 player_2:
     characterType: "beast"
     characterName: "Wild Beast"
@@ -36,4 +30,3 @@ player_2:
         defence: [40, 60]
         speed: [40, 60]
         luck: [25, 40]
-        ugliness: [90, 100]
